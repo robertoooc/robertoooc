@@ -10,7 +10,7 @@ As a highly motivated and coachable full stack developer, I am looking forward t
 
 ### Skills/Tools:
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,tailwind,git,js,ts,nextjs,vercel,postgres,html,css,bash)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,tailwind,git,js,ts,nextjs,vercel,postgres,html,css)
 
 | Skills     |            |
 | ---------- | --------   |
