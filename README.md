@@ -1,3 +1,4 @@
+# Roberto Contreras - Full Stack Developer
 <table>
 <tr>
 <td>
@@ -6,6 +7,9 @@ As a highly motivated and coachable full stack developer, I am looking forward t
 </tr>
 </table>
 
+## Resume
+[Open Resume](https://www.roberto-contreras.com/RobertoContrerasResume.pdf)
+<br>
 ## I've worked with:
 
 ### Skills/Tools:
