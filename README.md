@@ -51,7 +51,7 @@ A music app using a simple user authentication through storing user information 
 
 ### Nodejs/Discordjs/MongoDb/Heroku
 
-A music app using a simple user authentication through storing user information in cookies. Incorporated two unrelated third party api's and enabled them to work together to gather song information and album images, works proficiently over 90% of time. Apart from letting users search songs and artists, this app allows a user to create playlists with the options of public or private playlists. Allows users to also view other's public playlists and perform actions such as liking and commenting on them.
+Developed a Discord bot using Discord.js, ready to infuse some fun into job tracking. With an effortless deployment on Heroku, this bot empowers users to explore job postings, update statuses, and add new opportunities through interactive commands. By integrating MongoDB as a reliable NoSQL database, the bot ensures seamless storage and organization of all job-related information, creating a dynamic and enjoyable job hunting experience.
 
 ### View Gif : [Discord Bot Gif](https://github.com/robertoooc/Discord-bot/blob/main/gifs/getResultsAll.gif)
 
