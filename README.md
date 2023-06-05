@@ -57,7 +57,7 @@ A music app using a simple user authentication through storing user information 
 
 Developed a Discord bot using Discord.js, ready to infuse some fun into job tracking. With an effortless deployment on Heroku, this bot empowers users to explore job postings, update statuses, and add new opportunities through interactive commands. By integrating MongoDB as a reliable NoSQL database, the bot ensures seamless storage and organization of all job-related information, creating a dynamic and enjoyable job hunting experience.
 
-### View Gif : [Discord Bot Gif](https://github.com/robertoooc/Discord-bot/blob/main/gifs/getResultsAll.gif)
+### View Gif : [Discord Bot Gif](https://github.com/robertoooc/Discord-bot/blob/main/gifs/getResults.gif)
 
 ### Check it out here : [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1106759915466403870&permissions=26829587381312&scope=bot)
 
