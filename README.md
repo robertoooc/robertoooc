@@ -57,9 +57,9 @@ A music app using a simple user authentication through storing user information 
 
 ## <a href='https://github.com/robertoooc/Discord-bot' target="_blank">Discord Bot</a>
 
-### Nodejs/Discordjs/MongoDb/Heroku
+### Nodejs/Discordjs/MongoDb/Heroku/OpenAi API
 
-Developed a Discord bot using Discord.js, ready to infuse some fun into job tracking. With an effortless deployment on Heroku, this bot empowers users to explore job postings, update statuses, and add new opportunities through interactive commands. By integrating MongoDB as a reliable NoSQL database, the bot ensures seamless storage and organization of all job-related information, creating a dynamic and enjoyable job hunting experience.
+Developed and deployed a Discord bot using Discord.js paired with Heroku to enhance the job tracking experience. Created user commands for managing job postings, including viewing, updating statuses, and adding new postings. Additionally, I implemented custom cover letter capability using the OpenAI npm package. This feature generates personalized cover letters based on users' resumes and job descriptions.
 
 ### View Gif : <a href='https://github.com/robertoooc/Discord-bot/blob/main/gifs/getResults.gif' target="_blank">Discord Bot Gif</a>
 
