@@ -8,10 +8,15 @@ As a highly motivated and coachable full stack developer, I am looking forward t
 </tr>
 </table>
 
-## Resume
 
-<a href='https://www.roberto-contreras.com/RobertoContrerasResume.pdf' target='_blank'>Resume</a>
-<br>
+## Portfolio/Contact/Resume
+
+### Portfolio : <a href='https://www.roberto-contreras.com' target ="_blank">roberto-contreras.com</a>
+
+### Email : <a href="mailto:robertocontrerasdev@gmail.com" target= "_blank" >robertocontrerasdev@gmail.com</a>
+
+### LinkedIn : <a href="https://www.linkedin.com/in/robertocontreras-software/" target= "_blank" >LinkedIn Link</a>
+### Resume : <a href='https://www.roberto-contreras.com/RobertoContrerasResume.pdf' target='_blank'>Resume</a>
 
 ## I've worked with:
 
@@ -81,10 +86,3 @@ A basic 2d tag game built using vanilla JavaScript, HTML5, and CSS3.
 
 <hr>
 
-## Portfolio/Contact
-
-### Portfolio : <a href='https://www.roberto-contreras.com' target ="_blank">roberto-contreras.com</a>
-
-### Email : <a href="mailto:robertocontrerasdev@gmail.com" target= "_blank" >robertocontrerasdev@gmail.com</a>
-
-### LinkedIn : <a href="https://www.linkedin.com/in/robertocontreras-software/" target= "_blank" >LinkedIn Link</a>
