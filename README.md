@@ -15,7 +15,8 @@ As a highly motivated and coachable full stack developer, I am looking forward t
 
 ### Email : <a href="mailto:robertocontrerasdev@gmail.com" target= "_blank" >robertocontrerasdev@gmail.com</a>
 
-### LinkedIn : <a href="https://www.linkedin.com/in/robertocontreras-software/" target= "_blank" >LinkedIn Link</a>
+### LinkedIn : <a href="https://www.linkedin.com/in/roberto-contreras-882737241/" target= "_blank" >linkedin.com/in/roberto-contreras-882737241</a>
+
 ### Resume : <a href='https://www.roberto-contreras.com/RobertoContrerasResume.pdf' target='_blank'>Resume</a>
 
 ## I've worked with:
